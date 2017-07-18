@@ -8,3 +8,7 @@
 8. [ECMAScript系列](https://github.com/lomotony/lomotony.github.io/issues/9)
 9. [Git提交规范](https://github.com/lomotony/lomotony.github.io/issues/10)
 10. [CSS命名规范(BEM, OOCSS, SMACSS)](https://github.com/lomotony/lomotony.github.io/issues/11)
+11. [从 JavaScript 到 TypeScript](https://github.com/lomotony/lomotony.github.io/issues/12)
+12. [Sass和Less](https://github.com/lomotony/lomotony.github.io/issues/13)
+13. [Yarn vs npm](https://github.com/lomotony/lomotony.github.io/issues/14)
+14. [Lint工具](https://github.com/lomotony/lomotony.github.io/issues/15)
