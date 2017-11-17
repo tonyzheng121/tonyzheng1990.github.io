@@ -1,1 +1,6 @@
-对于平常写代码时候的一些问题的总结和对一些好的文章的收纳
+需要学习的知识点:
+
+### Javascript
+
+1. [ ] https://github.com/mqyqingfeng/Blog
+2. [ ] https://github.com/ElemeFE/node-interview/tree/master/sections/zh-cn
